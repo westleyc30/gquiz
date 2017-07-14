@@ -1,0 +1,74 @@
+{
+  "chords": {
+    "a": {
+      "major": {
+        "audio": "assets/audio/major/a_chord.mp3",
+        "img": ""
+      },
+      "minor": {
+        "audio": "assets/audio/minor/am_chord.mp3",
+        "img": ""
+      }
+    },
+    "b": {
+      "major": {
+        "audio": "assets/audio/major/b_chord.mp3",
+        "img": ""
+      },
+      "minor": {
+        "audio": "assets/audio/minor/bm_chord.mp3",
+        "img": ""
+      }
+    },
+    "c": {
+      "major": {
+        "audio": "assets/audio/major/c_chord.mp3",
+        "img": ""
+      },
+      "minor": {
+        "audio": "assets/audio/minor/cm_chord.mp3",
+        "img": ""
+      }
+    },
+    "d": {
+      "major": {
+        "audio": "assets/audio/major/d_chord.mp3",
+        "img": ""
+      },
+      "minor": {
+        "audio": "assets/audio/minor/dm_chord.mp3",
+        "img": ""
+      }
+    },
+    "e": {
+      "major": {
+        "audio": "assets/audio/major/e_chord.mp3",
+        "img": ""
+      },
+      "minor": {
+        "audio": "assets/audio/minor/em_chord.mp3",
+        "img": ""
+      }
+    },
+    "f": {
+      "major": {
+        "audio": "assets/audio/major/f_chord.mp3",
+        "img": ""
+      },
+      "minor": {
+        "audio": "assets/audio/minor/fm_chord.mp3",
+        "img": ""
+      }
+    },
+    "g": {
+      "major": {
+        "audio": "assets/audio/major/g_chord.mp3",
+        "img": ""
+      },
+      "minor": {
+        "audio": "assets/audio/minor/gm_chord.mp3",
+        "img": ""
+      }
+    }
+  }
+}
