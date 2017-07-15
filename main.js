@@ -10,7 +10,7 @@ request.responseType = 'json';
 request.send();
 request.onload = () => {
   chordList = request.response;
-  // console.log(chordList.chords.a.major.audio)
+  console.log(chordList.guitar.a.major.audio)
 }
 
 // This function creates an array from chordButton querySelectorAll
@@ -19,8 +19,8 @@ Array.from(chordButton).forEach(button => {
   button.addEventListener('click', function(e) {
     let currentChord = this.dataset.chord;
     // console.log(this);
-    console.log(chordList);
-    console.log(`guitar.${currentChord}.audio`);
+    // console.log(chordList.guitar.a.major.audio);
+    // console.log(chordList.guitar[currentChord].audio);
     console.log(currentChord);
   })
 })
